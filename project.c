@@ -15,6 +15,7 @@ int main()
  pthread_t t1,t2,t3,t4;
  pthread_mutex_init(&l,NULL);
  printf("-------------------------------------------------------------WELCOME-------------------------------------------------------------------------------------\n\n\n\n");
+ printf("                                                                                                                                                 Made By- AKSHAY KHAN");
  printf("Enter the Iterations You want to check your values check:");
  scanf("%d",&n);
  pthread_create(&t1,NULL,&fun1,NULL);
