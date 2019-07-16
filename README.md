@@ -7,6 +7,7 @@ In this Problem Akshay was alloted to write a multithreaded version of this algo
 An interesting way of calculating ! is to use a technique known as Monte
 Carlo, which involves randomization. This technique works as follows:
 Suppose you have a circle inscribed within a square, as shown in Figure
+
 ![](https://github.com/Akshay2224/OSPROJECT/blob/master/pie%20value.png)
 
 (Assume that the radius of this circle is 1.) First, generate a series of
